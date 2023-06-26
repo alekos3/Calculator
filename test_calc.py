@@ -1,5 +1,5 @@
 import unittest
-import calculator as calc
+import Calc as calc
 #  https://docs.python.org/3.10/library/unittest.html#unittest.TestCase.assertEqual
 
 

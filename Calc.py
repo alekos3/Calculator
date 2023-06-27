@@ -12,7 +12,8 @@ def subtraction(x, y):
 
 
 def division(x, y):
-    pass
+    result = x / y
+    return result
 
 
 def multiplication(x, y):

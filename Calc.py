@@ -17,5 +17,5 @@ def division(x, y):
 
 
 def multiplication(x, y):
-    result = x + y
+    result = x * y
     return result

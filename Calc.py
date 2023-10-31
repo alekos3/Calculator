@@ -22,7 +22,7 @@ def multiplication(x, y):
 
 
 def main():
-    pass
+    multiplication(2, 3)
 
 
 if __name__ == '__main__':

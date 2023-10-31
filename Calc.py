@@ -19,3 +19,11 @@ def division(x, y):
 def multiplication(x, y):
     result = x * y
     return result
+
+
+def main():
+    pass
+
+
+if __name__ == '__main__':
+    main()

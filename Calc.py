@@ -27,6 +27,6 @@ def main():
 
 
 if __name__ == '__main__':
-    username = input()
+    username = input("Enter username: ")
     password = getpass.getpass()
     main()

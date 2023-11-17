@@ -23,10 +23,7 @@ def multiplication(x, y):
 
 
 def main():
-    multiplication(2, 3)
-
-
-if __name__ == '__main__':
     username = input("Enter username: ")
     password = getpass.getpass()
-    main()
+    multiplication(2, 3)
+

@@ -1,4 +1,5 @@
 # Calculator
+import getpass
 
 
 def addition(x, y):
@@ -26,4 +27,6 @@ def main():
 
 
 if __name__ == '__main__':
+    username = input()
+    password = getpass.getpass()
     main()
